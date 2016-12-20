@@ -1,3 +1,5 @@
+### This charm is not ready for deployment yet, still WIP
+
 # Overview
 
 The Jupyter Notebook is a web application that allows you to create and share documents
